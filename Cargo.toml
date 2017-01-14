@@ -1,0 +1,8 @@
+[package]
+name = "dumbbell"
+version = "0.1.0"
+authors = ["ryann <ryanbluth93@gmail.com>"]
+
+[dependencies]
+hyper = "0.10"
+clap = "2.20.0"
